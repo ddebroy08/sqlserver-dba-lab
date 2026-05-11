@@ -1437,7 +1437,7 @@ No se detectaron consultas personalizadas del sistema nexoshop con consumo exces
 
 ## 11. Diagrama Entidad Relación
 
-[img_er](img/diagrama_er.png)
+![img_er](img/diagrama_er.png)
 
 ## 12. Conclusiones
 
